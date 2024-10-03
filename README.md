@@ -14,9 +14,9 @@ A simple, efficient movie recommender system built using Python and Pandas, depl
 Check out the live application here: [https://mvrecomsys-satwik-3d27fb687b91.herokuapp.com/](#)
 
 ## 📁 Datasets
-
-- `tmdb_5000_movies.csv`: Contains detailed information about the movies.
-- `tmdb_5000_credits.csv`: Holds cast and crew data for the movies.
+- **Dataset taken from Kaggle**
+- tmdb_5000_movies.csv: Contains detailed information about the movies.
+- tmdb_5000_credits.csv: Holds cast and crew data for the movies.
 
 ## ⚙️ Technologies Used
 
