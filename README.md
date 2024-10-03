@@ -5,9 +5,9 @@ A simple, efficient movie recommender system built using Python and Pandas, depl
 
 ## 🌟 Features
 
-- **Content-Based Filtering**: Recommends movies based on similarities in genre, cast, crew, and storyline.
+- **Content-Based Filtering**: Recommends movies based on similarities.
 - **Efficient Data Handling**: Processes over 5000 movies to deliver recommendations quickly.
-- **Heroku Deployment**: Easily accessible online for real-time recommendations.
+- **Heroku Deployment**
 
 ## 🚀 Live Demo
 
@@ -20,10 +20,10 @@ Check out the live application here: [Movie Recommender System](https://mvrecoms
 
 ## ⚙️ Technologies Used
 
-- **Python**: Core programming language.
+- **Python**: Programming language.
 - **Pandas & Numpy**: For data manipulation and analysis.
 - **Scikit-learn**: To calculate similarity and build the recommendation engine.
-- **Streamlit/Flask**: (or whichever used) for the web application.
+- **Streamlit**: For the web application.
 - **Heroku**: For deployment.
 
 ## 🤖 Machine Learning Techniques
