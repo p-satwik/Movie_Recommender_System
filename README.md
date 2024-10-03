@@ -51,6 +51,3 @@ Check out the live application here: [Movie Recommender on Heroku](#)
    streamlit run app.py  # or flask run
    ```
 
-## 📄 License
-
-This project is licensed under the MIT License.
