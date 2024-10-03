@@ -11,7 +11,7 @@ A simple, efficient movie recommender system built using Python and Pandas, depl
 
 ## 🚀 Live Demo
 
-Check out the live application here: [Movie Recommender on Heroku](#)
+Check out the live application here: [https://mvrecomsys-satwik-3d27fb687b91.herokuapp.com/](#)
 
 ## 📁 Datasets
 
