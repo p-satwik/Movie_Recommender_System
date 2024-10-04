@@ -1,5 +1,9 @@
 
 # 🎬 Movie Recommender System
+## 🚀 Live Demo
+
+Check out the live application here: [Movie Recommender System](https://mvrecomsys-satwik-3d27fb687b91.herokuapp.com/)
+
 
 A simple, efficient movie recommender system built using Python and Pandas, deployed on Heroku. It leverages data from TMDB (The Movie Database) to provide movie suggestions based on user preferences.
 
@@ -9,9 +13,6 @@ A simple, efficient movie recommender system built using Python and Pandas, depl
 - **Efficient Data Handling**: Processes over 5000 movies to deliver recommendations quickly.
 - **Heroku Deployment**
 
-## 🚀 Live Demo
-
-Check out the live application here: [Movie Recommender System](https://mvrecomsys-satwik-3d27fb687b91.herokuapp.com/)
 
 ## 📁 Datasets
 - [**TMDB 5000 Movie Dataset**](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) Metadata on ~5,000 movies from TMDb
